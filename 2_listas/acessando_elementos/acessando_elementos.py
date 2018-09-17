@@ -12,9 +12,9 @@ print(bicicletas[-1])
 
 
 print(bicicletas[-4])
-# O [-4] devolve o 4º quarto item a partir do final, e assim sucessivamente [-5], [-6]....
+# O [-4] devolve o 4º item a partir do final, e assim sucessivamente [-5], [-6]....
 
 
 message ="Minha primeira bicicleta foi uma " + bicicletas[5].title() + "."
 print(message)
-# Podemos usar concatenaçnao para criar uma mensagem com base em um valor de uma lista
+# Podemos usar concatenação para criar uma mensagem com base em um valor de uma lista
