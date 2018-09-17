@@ -1,0 +1,19 @@
+1) append
+
+2) insert
+
+3) len
+
+4) reverse
+
+5) sort
+
+6) sorted
+
+7) del
+
+8) pop
+
+9) remove
+
+10) for
